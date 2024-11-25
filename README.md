@@ -19,8 +19,8 @@ To get a local copy up and running, follow these simple steps.
 
 1. Open your terminal.
 2. Navigate to the directory where you want to clone the repository.
-3. Clone the repository using the following command:   git clone https://github.com/AnkitKhenwar/Directory-App.git
-4. Once the repository is cloned, navigate to the project directory:   cd Directory-App
+3. Clone the repository using the following command:   git clone https://github.com/AnkitKhenwar/Ecommerce-App.git
+4. Once the repository is cloned, navigate to the project directory:   cd Ecommerce-App
 
 ### Opening the Project in VS Code
 
@@ -67,4 +67,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ankit Khenwar - ankitkhenwar17@gmail.com
 
-Project Link: https://directory-app-red.vercel.app/
